@@ -38,7 +38,7 @@ The system helps optimize energy distribution, improve grid reliability, and red
 - **Predictive Analytics**: Forecasts energy demand and optimizes distribution.
 - **Visualization Dashboards**: Real-time energy insights using PowerBI.
 
-![PowerBI Dashboard](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/Dashboard.png)
+![PowerBI Dashboard](https://github.com/Honeypatel123/Smart-Energy-Grid/blob/main/images/Dashboard.png)
 
 ## System Design
 
@@ -52,7 +52,7 @@ The system consists of several interconnected components:
 
 The architecture is modular and scalable, enabling easy integration with smart meters and sensors. It uses **NodeMCU ESP32** for data collection and transmission.
 
-![System Architecture](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/system_architecture.jpg)
+![System Architecture](https://github.com/Honeypatel123/Smart-Energy-Grid/blob/main/images/system_architecture.jpg)
 
 ### Hardware Components
 
@@ -92,7 +92,7 @@ Smart-Energy-Grid/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/OmBaval/Smart-Energy-Grid.git
+   git clone https://github.com/Honeypatel123/Smart-Energy-Grid.git
    cd Smart-Energy-Grid
    ```
 
